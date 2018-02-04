@@ -1,0 +1,23 @@
+
+#banner {
+	background-image: url("../images/trainStation.jpg");
+	color: white;
+	text-shadow: 2px 2px green;
+	border: 2px solid green;
+}
+
+#title-bar {
+	border: 2px solid green;
+	background-color: green;
+	color: #eaffed;
+}
+#body {
+	border: 2px solid green;
+	background-color: #eaffed;
+}
+
+#add-train-btn {
+	background-color: green;
+	border: 2px solid #eaffed;
+	border-radius: 10px;
+}
